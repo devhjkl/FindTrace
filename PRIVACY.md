@@ -39,4 +39,4 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 ## Contact
 
-If you have any questions about this Privacy Policy, please open an issue on our [GitHub repository](https://github.com/nicegram/findtrace/issues) or contact us at your-email@example.com.
+If you have any questions about this Privacy Policy, please open an issue on our [GitHub repository](https://github.com/nicegram/findtrace/issues).
